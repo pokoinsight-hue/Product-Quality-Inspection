@@ -1,4 +1,5 @@
-# Product-Quality-Inspection
+# Optimizing Quality Inspection Through Sampling Analysis
+  ACME Manufacturing- Minor Defects Monitoring
 
 ## Description
 ACME Manufacturing produces electronic components used in industrial robotics, where consistent product quality is critical. Minor defects do not affect functionality but serve as an early indicator of process instability.
